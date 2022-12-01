@@ -13,8 +13,8 @@ import numpy as np
 import datetime as dt
 #Constantes
 #%matplotlib inline
-TRADING_API_TOKEN="32815b6367fa1a6173ea6a8841dc6364-e13e7d47ce9a3bf0885206468a89a464"
-TRADING_API_ACCOUNT='001-001-441603-002'
+TRADING_API_TOKEN=""
+TRADING_API_ACCOUNT=''
 CANDLES=5000
 
 
