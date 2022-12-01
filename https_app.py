@@ -24,7 +24,7 @@ print(colorama.Fore.LIGHTCYAN_EX)
 
 
 
-API_KEY='fa529f45ca44430f8972f0323388259e'
+API_KEY=''
 
   # Request headers
 headers = { 
