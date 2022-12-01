@@ -14,8 +14,8 @@ v20.user.
 #Constantes
 TRADING_API_URL='https://api-fxtrade.oanda.com'
 TRADING_API_PORT=443
-#TRADING_API_TOKEN="471fade33f9283e38f9b9c60beb29693-337b3fd8db72ca0cae02acfd18a309ac"
-TRADING_API_TOKEN="471fade33f9283e38f9b9c60beb29693-337b3fd8db72ca0cae02acfd18a309ac"
+#TRADING_API_TOKEN=""
+TRADING_API_TOKEN=""
 
 # #Funciones
 # def on_connect():
